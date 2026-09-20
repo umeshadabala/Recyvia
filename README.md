@@ -80,7 +80,7 @@ graph TD
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/recyvia.git
+git clone https://github.com/umeshadabala/Recyvia.git
 cd recyvia
 
 # 2. Install dependencies
