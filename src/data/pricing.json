@@ -1,0 +1,32 @@
+[
+  {
+    "material": "Printed Circuit Boards (PCBs & Motherboards)",
+    "category": "E-Waste",
+    "indicativePrice": 280,
+    "unit": "kg",
+    "location": "Bengaluru, Karnataka",
+    "source": "Bangalore E-Waste Recovery Index",
+    "sourceUrl": "https://www.thekabadiwala.com/scrap-rates/bangalore",
+    "retrievedAt": "2026-09-18T20:00:00.000Z"
+  },
+  {
+    "material": "Heavy Copper Wiring & Scrap",
+    "category": "Scrap Metals",
+    "indicativePrice": 680,
+    "unit": "kg",
+    "location": "Bengaluru, Karnataka",
+    "source": "Bangalore Metal Mandi Index",
+    "sourceUrl": "https://www.thekabadiwala.com/scrap-rates/bangalore",
+    "retrievedAt": "2026-09-18T20:00:00.000Z"
+  },
+  {
+    "material": "Inverter & Automotive Lead-Acid Batteries",
+    "category": "Batteries",
+    "indicativePrice": 98,
+    "unit": "kg",
+    "location": "Bengaluru, Karnataka",
+    "source": "Indian Battery Recyclers Guild",
+    "sourceUrl": "https://www.thekabadiwala.com/scrap-rates/bangalore",
+    "retrievedAt": "2026-09-18T20:00:00.000Z"
+  }
+]

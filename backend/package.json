@@ -1,0 +1,19 @@
+{
+  "name": "recyvia-backend",
+  "version": "1.0.0",
+  "description": "AWS Lambda & DynamoDB backend for Recyvia",
+  "main": "dist/handlers/health.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.500.0",
+    "@aws-sdk/lib-dynamodb": "^3.500.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.130",
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0"
+  }
+}
