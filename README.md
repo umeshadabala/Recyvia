@@ -81,7 +81,7 @@ graph TD
 ```bash
 # 1. Clone the repository
 git clone https://github.com/umeshadabala/Recyvia.git
-cd recyvia
+cd Recyvia
 
 # 2. Install dependencies
 npm install
